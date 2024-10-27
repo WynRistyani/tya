@@ -1,0 +1,33 @@
+2024-10-27T14:29:14.591Z P:17208 T:27708] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotSetup
+2024-10-27T14:29:15.864Z P:17208 T:27708] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-10-27T14:29:15.903Z P:17208 T:28124] SyncManagerImpl::NudgeForInitialDownload,Initial download nudge for Encryption Keys
+2024-10-27T14:29:15.903Z P:17208 T:28124] SyncEngineBackend::LoadAndConnectNigoriController,Load and connect Nigori controller
+2024-10-27T14:29:15.903Z P:17208 T:28124] SyncEngineBackend::DoInitialize,Control Types added: Encryption Keys
+2024-10-27T14:29:15.905Z P:17208 T:28124] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys with reason: 3
+2024-10-27T14:29:15.905Z P:17208 T:28124] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Configure job was blocked
+2024-10-27T14:29:28.950Z P:17208 T:27708] SyncAuthManager::SetLastAuthError,Current auth error: PERSISTENT_ERROR, EDGE_AUTH_ERROR: 3, 13, 8086000c
+2024-10-27T14:29:28.950Z P:17208 T:27708] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-10-27T14:29:28.950Z P:17208 T:27708] SyncServiceImpl::ResetEngine,Reset engine with reason: 6
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Bookmarks
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Preferences
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Passwords
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Autofill Profiles
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Autofill
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Typed URLs
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Extensions
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Sessions
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Extension settings
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: History Delete Directives
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Device Info
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: User Consents
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Send Tab To Self
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Web Apps
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: History
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Collection
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Edge E Drop
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Edge Hub App Usage
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Edge Tab Group
+2024-10-27T14:29:28.950Z P:17208 T:27708] ModelLoadManager::Stop,Stopped: Edge Wallet
+2024-10-27T14:29:28.950Z P:17208 T:27708] SyncServiceImpl::ResetEngine,Reset engine with reason: 6
+2024-10-27T14:29:28.953Z P:17208 T:27708] SyncAuthManager::SetLastAuthError,Current auth error: PERSISTENT_ERROR, EDGE_AUTH_ERROR: 3, 13, 8086000c
+2024-10-27T14:29:28.953Z P:17208 T:27708] SyncServiceImpl::CredentialsChangedForKeyData,Credentials changed for: EdgeSyncKeyDataScope
